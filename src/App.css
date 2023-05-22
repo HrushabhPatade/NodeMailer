@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+*{
+font-size: 115%; font-family:Simsun;
+}
+
+textarea{
+resize: none;
+}
